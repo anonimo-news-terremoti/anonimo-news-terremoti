@@ -1,202 +1,152 @@
 [
   {
-    "magnitudo": 1,
-    "luogo": "5 km SE Castel del Rio (BO)",
-    "profondita": "9.1 km",
-    "data": "2026-08-17",
-    "ora": "19:35",
-    "fonte": "INGV",
-    "lat": 44.1772,
-    "lon": 11.5352
-  },
-  {
-    "magnitudo": 1.9,
-    "luogo": "3 km E Castelsantangelo sul Nera (MC)",
-    "profondita": "8.4 km",
-    "data": "2026-08-17",
-    "ora": "16:26",
-    "fonte": "INGV",
-    "lat": 42.8835,
-    "lon": 13.1832
-  },
-  {
-    "magnitudo": 1.4,
-    "luogo": "1 km SE Narni (TR)",
-    "profondita": "10.5 km",
-    "data": "2026-08-17",
-    "ora": "15:56",
-    "fonte": "INGV",
-    "lat": 42.5137,
-    "lon": 12.5223
-  },
-  {
-    "magnitudo": 1.3,
-    "luogo": "6 km E Colle Sannita (BN)",
-    "profondita": "15.3 km",
-    "data": "2026-08-17",
-    "ora": "14:15",
-    "fonte": "INGV",
-    "lat": 41.3618,
-    "lon": 14.9022
-  },
-  {
-    "magnitudo": 1.3,
-    "luogo": "1 km SE Celle di Macra (CN)",
-    "profondita": "10.6 km",
-    "data": "2026-08-17",
-    "ora": "13:35",
-    "fonte": "INGV",
-    "lat": 44.4782,
-    "lon": 7.1883
-  },
-  {
-    "magnitudo": 1.5,
-    "luogo": "3 km S Montegallo (AP)",
-    "profondita": "19.8 km",
-    "data": "2026-08-17",
-    "ora": "13:08",
-    "fonte": "INGV",
-    "lat": 42.8138,
-    "lon": 13.3408
-  },
-  {
-    "magnitudo": 6,
-    "luogo": "Off east coast of Kamchatka Peninsula, Russia [Sea: Russia]",
-    "profondita": "14.8 km",
-    "data": "2026-08-17",
-    "ora": "12:38",
-    "fonte": "INGV",
-    "lat": 52.7555,
-    "lon": 159.778
-  },
-  {
-    "magnitudo": 1.9,
-    "luogo": "4 km NW Capitignano (AQ)",
-    "profondita": "13.4 km",
-    "data": "2026-08-17",
-    "ora": "11:49",
-    "fonte": "INGV",
-    "lat": 42.5538,
-    "lon": 13.2827
-  },
-  {
     "magnitudo": 1.1,
-    "luogo": "9 km W Castelsaraceno (PZ)",
-    "profondita": "9.6 km",
-    "data": "2026-08-17",
-    "ora": "11:23",
+    "luogo": "5 km N Montereale (AQ)",
+    "profondita": "12.6 km",
+    "data": "2026-08-18",
+    "ora": "10:01",
     "fonte": "INGV",
-    "lat": 40.1542,
-    "lon": 15.8927
-  },
-  {
-    "magnitudo": 1,
-    "luogo": "8 km W Castelsaraceno (PZ)",
-    "profondita": "10 km",
-    "data": "2026-08-17",
-    "ora": "11:01",
-    "fonte": "INGV",
-    "lat": 40.1602,
-    "lon": 15.8952
+    "lat": 42.5668,
+    "lon": 13.2323
   },
   {
     "magnitudo": 1.2,
-    "luogo": "3 km SE Fiordimonte (MC)",
-    "profondita": "4.5 km",
-    "data": "2026-08-17",
-    "ora": "10:12",
+    "luogo": "5 km SE Firenzuola (FI)",
+    "profondita": "11 km",
+    "data": "2026-08-18",
+    "ora": "09:03",
     "fonte": "INGV",
-    "lat": 43.0212,
-    "lon": 13.1168
+    "lat": 44.0832,
+    "lon": 11.4243
   },
   {
-    "magnitudo": 1.8,
-    "luogo": "9 km E San Pietro in Guarano (CS)",
-    "profondita": "14.9 km",
-    "data": "2026-08-17",
-    "ora": "10:02",
+    "magnitudo": 1.2,
+    "luogo": "6 km W Milo (CT)",
+    "profondita": "3.9 km",
+    "data": "2026-08-18",
+    "ora": "08:50",
     "fonte": "INGV",
-    "lat": 39.3733,
-    "lon": 16.4128
+    "lat": 37.744,
+    "lon": 15.048
+  },
+  {
+    "magnitudo": 3.3,
+    "luogo": "2 km SW Oliveri (ME)",
+    "profondita": "10.1 km",
+    "data": "2026-08-18",
+    "ora": "08:07",
+    "fonte": "INGV",
+    "lat": 38.1153,
+    "lon": 15.0487
+  },
+  {
+    "magnitudo": 3.7,
+    "luogo": "1 km NW Oliveri (ME)",
+    "profondita": "8.7 km",
+    "data": "2026-08-18",
+    "ora": "08:07",
+    "fonte": "INGV",
+    "lat": 38.1333,
+    "lon": 15.0542
   },
   {
     "magnitudo": 1.3,
-    "luogo": "4 km NW Muccia (MC)",
-    "profondita": "13 km",
-    "data": "2026-08-17",
-    "ora": "08:47",
+    "luogo": "5 km N Preci (PG)",
+    "profondita": "10.7 km",
+    "data": "2026-08-18",
+    "ora": "07:04",
     "fonte": "INGV",
-    "lat": 43.1113,
-    "lon": 13.0088
+    "lat": 42.9263,
+    "lon": 13.0223
   },
   {
-    "magnitudo": 1.9,
-    "luogo": "Costa Siracusana (Siracusa)",
-    "profondita": "10 km",
-    "data": "2026-08-17",
-    "ora": "08:21",
+    "magnitudo": 5.7,
+    "luogo": "Southern Sumatera, Indonesia [Sea: Indonesia]",
+    "profondita": "30.5 km",
+    "data": "2026-08-18",
+    "ora": "06:02",
     "fonte": "INGV",
-    "lat": 36.9357,
-    "lon": 15.3615
+    "lat": -0.400781,
+    "lon": 98.768
+  },
+  {
+    "magnitudo": 1,
+    "luogo": "5 km E Umbertide (PG)",
+    "profondita": "4.9 km",
+    "data": "2026-08-18",
+    "ora": "05:57",
+    "fonte": "INGV",
+    "lat": 43.3025,
+    "lon": 12.3835
+  },
+  {
+    "magnitudo": 5.9,
+    "luogo": "Near coast of Chiapas, Mexico [Sea: Mexico]",
+    "profondita": "71.5 km",
+    "data": "2026-08-18",
+    "ora": "05:02",
+    "fonte": "INGV",
+    "lat": 14.4246,
+    "lon": -92.8254
+  },
+  {
+    "magnitudo": 1.6,
+    "luogo": "5 km NW Sclafani Bagni (PA)",
+    "profondita": "32.4 km",
+    "data": "2026-08-18",
+    "ora": "04:44",
+    "fonte": "INGV",
+    "lat": 37.8607,
+    "lon": 13.8373
+  },
+  {
+    "magnitudo": 1.6,
+    "luogo": "5 km S Campello sul Clitunno (PG)",
+    "profondita": "10.9 km",
+    "data": "2026-08-18",
+    "ora": "03:20",
+    "fonte": "INGV",
+    "lat": 42.7782,
+    "lon": 12.7697
+  },
+  {
+    "magnitudo": 1.4,
+    "luogo": "3 km NE Frosinone (FR)",
+    "profondita": "9.6 km",
+    "data": "2026-08-18",
+    "ora": "03:10",
+    "fonte": "INGV",
+    "lat": 41.6553,
+    "lon": 13.3827
+  },
+  {
+    "magnitudo": 1.2,
+    "luogo": "2 km NE Ripe San Ginesio (MC)",
+    "profondita": "25.9 km",
+    "data": "2026-08-18",
+    "ora": "02:18",
+    "fonte": "INGV",
+    "lat": 43.1587,
+    "lon": 13.3848
   },
   {
     "magnitudo": 2.2,
-    "luogo": "3 km NE Fosdinovo (MS)",
-    "profondita": "10.7 km",
-    "data": "2026-08-17",
-    "ora": "06:38",
+    "luogo": "7 km E Valtopina (PG)",
+    "profondita": "10.4 km",
+    "data": "2026-08-18",
+    "ora": "01:12",
     "fonte": "INGV",
-    "lat": 44.148,
-    "lon": 10.046
+    "lat": 43.0308,
+    "lon": 12.8383
   },
   {
-    "magnitudo": 1.5,
-    "luogo": "3 km W Laviano (SA)",
-    "profondita": "17.3 km",
-    "data": "2026-08-17",
-    "ora": "06:22",
+    "magnitudo": 2.2,
+    "luogo": "10 km NE Pietraperzia (EN)",
+    "profondita": "66.6 km",
+    "data": "2026-08-18",
+    "ora": "00:13",
     "fonte": "INGV",
-    "lat": 40.7912,
-    "lon": 15.2682
-  },
-  {
-    "magnitudo": 1.9,
-    "luogo": "4 km SE Buonvicino (CS)",
-    "profondita": "23.5 km",
-    "data": "2026-08-17",
-    "ora": "06:20",
-    "fonte": "INGV",
-    "lat": 39.6683,
-    "lon": 15.9172
-  },
-  {
-    "magnitudo": 1.3,
-    "luogo": "7 km SW Casola Valsenio (RA)",
-    "profondita": "28.4 km",
-    "data": "2026-08-17",
-    "ora": "03:07",
-    "fonte": "INGV",
-    "lat": 44.1732,
-    "lon": 11.5755
-  },
-  {
-    "magnitudo": 1.1,
-    "luogo": "Confine Italia-Svizzera (SVIZZERA)",
-    "profondita": "11 km",
-    "data": "2026-08-17",
-    "ora": "03:01",
-    "fonte": "INGV",
-    "lat": 46.4072,
-    "lon": 8.5427
-  },
-  {
-    "magnitudo": 1.1,
-    "luogo": "4 km NE Bolognola (MC)",
-    "profondita": "24.8 km",
-    "data": "2026-08-17",
-    "ora": "02:23",
-    "fonte": "INGV",
-    "lat": 43.0278,
-    "lon": 13.2473
+    "lat": 37.4852,
+    "lon": 14.2218
   }
 ]
