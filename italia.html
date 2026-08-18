@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Terremoti Italia - Anonimo News</title>
+
+<link rel="stylesheet" href="css/stile.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>🇮🇹 Terremoti Italia</h1>
+
+<p>Eventi sismici rilevati da INGV</p>
+
+</header>
+
+
+
+<section>
+
+<h2>🌋 Ultime scosse in Italia</h2>
+
+
+<div id="eventi-italia">
+
+Caricamento eventi italiani...
+
+</div>
+
+
+</section>
+
+
+
+<footer>
+
+<a href="index.html">⬅ Torna Home</a>
+
+</footer>
+
+
+
+<script>
+
+fetch("dati/italia/eventi_italia.json")
+
+.then(response => response.json())
+
+.then(eventi => {
+
+
+let contenitore = document.getElementById("eventi-italia");
+
+
+contenitore.innerHTML = "";
+
+
+eventi.forEach(evento => {
+
+
+
+
+contenitore.innerHTML += `
+
+
+eventi.sort((a,b) => {
+
+    let dataA = new Date(a.data + " " + a.ora);
+    let dataB = new Date(b.data + " " + b.ora);
+
+    return dataB - dataA;
+
+});
+
+
+eventi = eventi.slice(0,20);
+
+<div class="scheda evento">
+
+
+<h2>🌋 Magnitudo ${evento.magnitudo}</h2>
+
+
+<p>📍 ${evento.luogo}</p>
+
+
+<p>⬇️ Profondità: ${evento.profondita}</p>
+
+
+<p>📅 Data: ${evento.data}</p>
+
+
+<p>🕒 Ora: ${evento.ora}</p>
+
+
+<p>📡 Fonte: ${evento.fonte}</p>
+
+
+<p>🌐 Coordinate:
+${evento.lat}, ${evento.lon}
+</p>
+
+
+</div>
+
+
+`;
+
+
+});
+
+
+})
+
+
+.catch(error => {
+
+
+document.getElementById("eventi-italia").innerHTML =
+"Errore caricamento eventi INGV";
+
+
+console.log(error);
+
+
+});
+
+
+</script>
+
+
+</body>
+
+</html>

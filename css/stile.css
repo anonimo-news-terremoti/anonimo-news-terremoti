@@ -1,0 +1,215 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(#08111f, #020812);
+    color: white;
+}
+
+
+header {
+    background: #101d33;
+    text-align: center;
+    padding: 35px;
+    border-bottom: 4px solid #ff3333;
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 38px;
+    color: #ff3333;
+    text-shadow: 0 0 15px #ff3333;
+}
+
+
+header p {
+    font-size: 20px;
+    color: #ddd;
+}
+
+
+
+section {
+    padding: 30px;
+}
+
+
+
+.ultimo {
+    text-align: center;
+}
+
+
+
+.scheda {
+
+    background: linear-gradient(
+        145deg,
+        #14243d,
+        #0b1628
+    );
+
+    max-width: 550px;
+
+    margin: auto;
+
+    padding: 30px;
+
+    border-radius: 20px;
+
+    border: 2px solid #ff3333;
+
+    box-shadow:
+    0 0 20px rgba(255,0,0,0.4);
+
+}
+
+
+
+.scheda h2 {
+
+    color:#ff3333;
+
+    font-size:32px;
+
+}
+
+
+
+.scheda p {
+
+    font-size:20px;
+
+    margin:12px;
+
+}
+
+
+
+.ultimo img {
+
+    margin-top:25px;
+
+    border:3px solid #1da1f2;
+
+    box-shadow:
+    0 0 20px black;
+
+}
+
+
+
+.menu {
+
+    display:flex;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+    gap:20px;
+
+}
+
+
+
+.menu a {
+
+    background:#ff3333;
+
+    color:white;
+
+    padding:18px 35px;
+
+    text-decoration:none;
+
+    border-radius:15px;
+
+    font-weight:bold;
+
+    font-size:18px;
+
+    transition:0.3s;
+
+}
+
+
+
+.menu a:hover {
+
+    background:#990000;
+
+    transform:scale(1.05);
+
+}
+
+
+
+footer {
+
+    text-align:center;
+
+    padding:25px;
+
+    background:#101d33;
+
+    margin-top:30px;
+
+}
+
+
+
+/* TELEFONO */
+
+@media(max-width:700px){
+
+
+header h1 {
+
+    font-size:28px;
+
+}
+
+
+.menu {
+
+    flex-direction:column;
+
+    align-items:center;
+
+}
+
+
+.menu a {
+
+    width:80%;
+
+    text-align:center;
+
+}
+
+
+.scheda p {
+
+    font-size:17px;
+
+}
+
+
+}
+.evento {
+    margin-bottom:25px;
+    text-align:left;
+}
+
+
+.evento h2 {
+    color:#ff3333;
+}
+
+
+footer a {
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}

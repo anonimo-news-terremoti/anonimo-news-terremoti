@@ -1,0 +1,202 @@
+[
+  {
+    "magnitudo": 1.98,
+    "luogo": "9 km S of Volcano, Hawaii",
+    "profondita": "29.2800006866455 km",
+    "data": "18/08/2026",
+    "ora": "00:00",
+    "fonte": "USGS",
+    "lat": 19.3554992675781,
+    "lon": -155.243667602539
+  },
+  {
+    "magnitudo": 5.1,
+    "luogo": "Kuril Islands",
+    "profondita": "90.992 km",
+    "data": "17/08/2026",
+    "ora": "23:36",
+    "fonte": "USGS",
+    "lat": 46.4341,
+    "lon": 151.3834
+  },
+  {
+    "magnitudo": 1.4,
+    "luogo": "3 km SW of Hulbert, Oklahoma",
+    "profondita": "0 km",
+    "data": "17/08/2026",
+    "ora": "23:27",
+    "fonte": "USGS",
+    "lat": 35.91016667,
+    "lon": -95.17166667
+  },
+  {
+    "magnitudo": 0.23,
+    "luogo": "8 km WNW of Cobb, CA",
+    "profondita": "1.69000005722046 km",
+    "data": "17/08/2026",
+    "ora": "23:15",
+    "fonte": "USGS",
+    "lat": 38.8386650085449,
+    "lon": -122.810997009277
+  },
+  {
+    "magnitudo": 1.5,
+    "luogo": "17 km W of Glacier View, Alaska",
+    "profondita": "32.5 km",
+    "data": "17/08/2026",
+    "ora": "23:13",
+    "fonte": "USGS",
+    "lat": 61.779,
+    "lon": -147.977
+  },
+  {
+    "magnitudo": 1.7,
+    "luogo": "57 km S of Whites City, New Mexico",
+    "profondita": "6.7151 km",
+    "data": "17/08/2026",
+    "ora": "23:10",
+    "fonte": "USGS",
+    "lat": 31.661,
+    "lon": -104.301
+  },
+  {
+    "magnitudo": 1.1604010676958,
+    "luogo": "9 km ESE of Coso Junction, CA",
+    "profondita": "2.0699999332428 km",
+    "data": "17/08/2026",
+    "ora": "23:02",
+    "fonte": "USGS",
+    "lat": 36.0248336791992,
+    "lon": -117.847503662109
+  },
+  {
+    "magnitudo": 0.970721780491818,
+    "luogo": "20 km ESE of Anza, CA",
+    "profondita": "12.8900003433228 km",
+    "data": "17/08/2026",
+    "ora": "22:57",
+    "fonte": "USGS",
+    "lat": 33.492000579834,
+    "lon": -116.473663330078
+  },
+  {
+    "magnitudo": 1.26,
+    "luogo": "7 km ESE of Cloverdale, CA",
+    "profondita": "4.44999980926514 km",
+    "data": "17/08/2026",
+    "ora": "22:56",
+    "fonte": "USGS",
+    "lat": 38.7815017700195,
+    "lon": -122.941497802734
+  },
+  {
+    "magnitudo": 2.37,
+    "luogo": "3 km S of Cabo Rojo, Puerto Rico",
+    "profondita": "6.09 km",
+    "data": "17/08/2026",
+    "ora": "22:40",
+    "fonte": "USGS",
+    "lat": 18.0575,
+    "lon": -67.148
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "41 km SW of Karluk, Alaska",
+    "profondita": "57.9 km",
+    "data": "17/08/2026",
+    "ora": "22:35",
+    "fonte": "USGS",
+    "lat": 57.279,
+    "lon": -154.894
+  },
+  {
+    "magnitudo": 1.5,
+    "luogo": "2 km E of Granite Falls, Washington",
+    "profondita": "-0.41 km",
+    "data": "17/08/2026",
+    "ora": "21:54",
+    "fonte": "USGS",
+    "lat": 48.085,
+    "lon": -121.941666666667
+  },
+  {
+    "magnitudo": 0.24,
+    "luogo": "37 km NNE of Amboy, Washington",
+    "profondita": "-1.08 km",
+    "data": "17/08/2026",
+    "ora": "21:54",
+    "fonte": "USGS",
+    "lat": 46.2013333333333,
+    "lon": -122.199166666667
+  },
+  {
+    "magnitudo": 1.7,
+    "luogo": "5 km W of Pāhala, Hawaii",
+    "profondita": "-0.46000000834465 km",
+    "data": "17/08/2026",
+    "ora": "21:53",
+    "fonte": "USGS",
+    "lat": 19.1943340301514,
+    "lon": -155.53450012207
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "219 km WSW of Longyearbyen, Svalbard and Jan Mayen",
+    "profondita": "10 km",
+    "data": "17/08/2026",
+    "ora": "21:51",
+    "fonte": "USGS",
+    "lat": 77.5754,
+    "lon": 6.791
+  },
+  {
+    "magnitudo": 2.4,
+    "luogo": "115 km ESE of McCarthy, Alaska",
+    "profondita": "5 km",
+    "data": "17/08/2026",
+    "ora": "21:31",
+    "fonte": "USGS",
+    "lat": 61.096,
+    "lon": -140.895
+  },
+  {
+    "magnitudo": 2.3,
+    "luogo": "114 km ESE of McCarthy, Alaska",
+    "profondita": "5 km",
+    "data": "17/08/2026",
+    "ora": "21:30",
+    "fonte": "USGS",
+    "lat": 61.123,
+    "lon": -140.883
+  },
+  {
+    "magnitudo": 0.73,
+    "luogo": "8 km ESE of Palomar Observatory, CA",
+    "profondita": "16.83 km",
+    "data": "17/08/2026",
+    "ora": "21:25",
+    "fonte": "USGS",
+    "lat": 33.3305,
+    "lon": -116.784333333333
+  },
+  {
+    "magnitudo": 4.06,
+    "luogo": "16 km SSE of Honaunau-Napoopoo, Hawaii",
+    "profondita": "23 km",
+    "data": "17/08/2026",
+    "ora": "21:24",
+    "fonte": "USGS",
+    "lat": 19.3153333333333,
+    "lon": -155.827333333333
+  },
+  {
+    "magnitudo": 0.68,
+    "luogo": "8 km ESE of Palomar Observatory, CA",
+    "profondita": "17.12 km",
+    "data": "17/08/2026",
+    "ora": "21:21",
+    "fonte": "USGS",
+    "lat": 33.3311666666667,
+    "lon": -116.784
+  }
+]
