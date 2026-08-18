@@ -1,0 +1,452 @@
+[
+  {
+    "magnitudo": 4.6,
+    "luogo": "5 km ENE of Escúzar, Spain",
+    "profondita": "10 km",
+    "data": 1787045677659,
+    "fonte": "USGS",
+    "lat": 37.0875,
+    "lon": -3.7084
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "south of the Fiji Islands",
+    "profondita": "130.03 km",
+    "data": 1787043755424,
+    "fonte": "USGS",
+    "lat": -24.7429,
+    "lon": -177.1264
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "74 km N of Ruteng, Indonesia",
+    "profondita": "33.11 km",
+    "data": 1787043699508,
+    "fonte": "USGS",
+    "lat": -7.9353,
+    "lon": 120.4656
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "2 km WSW of Granada, Spain",
+    "profondita": "10 km",
+    "data": 1787042264898,
+    "fonte": "USGS",
+    "lat": 37.1786,
+    "lon": -3.6311
+  },
+  {
+    "magnitudo": 4.3,
+    "luogo": "241 km S of Sanana, Indonesia",
+    "profondita": "381.022 km",
+    "data": 1787035539863,
+    "fonte": "USGS",
+    "lat": -4.243,
+    "lon": 125.9428
+  },
+  {
+    "magnitudo": 5.6,
+    "luogo": "154 km SSE of Teluk Dalam, Indonesia",
+    "profondita": "10 km",
+    "data": 1787032940229,
+    "fonte": "USGS",
+    "lat": -0.6858,
+    "lon": 98.416
+  },
+  {
+    "magnitudo": 5.7,
+    "luogo": "95 km SW of Puerto Madero, Mexico",
+    "profondita": "10 km",
+    "data": 1787029352244,
+    "fonte": "USGS",
+    "lat": 14.2298,
+    "lon": -93.1475
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "46 km NNW of Ruteng, Indonesia",
+    "profondita": "34.063 km",
+    "data": 1787020958032,
+    "fonte": "USGS",
+    "lat": -8.2434,
+    "lon": 120.2573
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "south of the Fiji Islands",
+    "profondita": "576.355 km",
+    "data": 1787015403872,
+    "fonte": "USGS",
+    "lat": -22.0411,
+    "lon": -179.0793
+  },
+  {
+    "magnitudo": 5.3,
+    "luogo": "24 km ENE of Colonia, Micronesia",
+    "profondita": "10 km",
+    "data": 1787007191292,
+    "fonte": "USGS",
+    "lat": 9.638,
+    "lon": 138.3106
+  },
+  {
+    "magnitudo": 5.1,
+    "luogo": "Kuril Islands",
+    "profondita": "93.538 km",
+    "data": 1787002596105,
+    "fonte": "USGS",
+    "lat": 46.4392,
+    "lon": 151.4468
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "41 km SW of Karluk, Alaska",
+    "profondita": "57.9 km",
+    "data": 1786998910038,
+    "fonte": "USGS",
+    "lat": 57.279,
+    "lon": -154.894
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "219 km WSW of Longyearbyen, Svalbard and Jan Mayen",
+    "profondita": "10 km",
+    "data": 1786996283274,
+    "fonte": "USGS",
+    "lat": 77.5754,
+    "lon": 6.791
+  },
+  {
+    "magnitudo": 4.06,
+    "luogo": "16 km SSE of Honaunau-Napoopoo, Hawaii",
+    "profondita": "23 km",
+    "data": 1786994648290,
+    "fonte": "USGS",
+    "lat": 19.3153333333333,
+    "lon": -155.827333333333
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "28 km NE of Colonia, Micronesia",
+    "profondita": "10 km",
+    "data": 1786992671299,
+    "fonte": "USGS",
+    "lat": 9.7108,
+    "lon": 138.2886
+  },
+  {
+    "magnitudo": 4.6,
+    "luogo": "155 km N of Pototano, Indonesia",
+    "profondita": "496.552 km",
+    "data": 1786990205545,
+    "fonte": "USGS",
+    "lat": -7.0242,
+    "lon": 117.2457
+  },
+  {
+    "magnitudo": 4.4,
+    "luogo": "59 km NNW of Ende, Indonesia",
+    "profondita": "10 km",
+    "data": 1786975948370,
+    "fonte": "USGS",
+    "lat": -8.3871,
+    "lon": 121.3679
+  },
+  {
+    "magnitudo": 5,
+    "luogo": "32 km N of Ruteng, Indonesia",
+    "profondita": "10 km",
+    "data": 1786975114474,
+    "fonte": "USGS",
+    "lat": -8.3182,
+    "lon": 120.4472
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "44 km NNE of Ruteng, Indonesia",
+    "profondita": "30.025 km",
+    "data": 1786971065572,
+    "fonte": "USGS",
+    "lat": -8.2712,
+    "lon": 120.6721
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "68 km N of Ruteng, Indonesia",
+    "profondita": "10 km",
+    "data": 1786970375566,
+    "fonte": "USGS",
+    "lat": -8.0024,
+    "lon": 120.3701
+  },
+  {
+    "magnitudo": 5.8,
+    "luogo": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+    "profondita": "54.741 km",
+    "data": 1786970283466,
+    "fonte": "USGS",
+    "lat": 53.024,
+    "lon": 159.7106
+  },
+  {
+    "magnitudo": 5.1,
+    "luogo": "28 km SW of Kandrian, Papua New Guinea",
+    "profondita": "35 km",
+    "data": 1786964423022,
+    "fonte": "USGS",
+    "lat": -6.3769,
+    "lon": 149.3577
+  },
+  {
+    "magnitudo": 5.4,
+    "luogo": "75 km N of Ruteng, Indonesia",
+    "profondita": "10 km",
+    "data": 1786963489886,
+    "fonte": "USGS",
+    "lat": -7.9289,
+    "lon": 120.4324
+  },
+  {
+    "magnitudo": 5.2,
+    "luogo": "81 km N of Ruteng, Indonesia",
+    "profondita": "10 km",
+    "data": 1786963361971,
+    "fonte": "USGS",
+    "lat": -7.8762,
+    "lon": 120.5019
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "52 km NNW of Ende, Indonesia",
+    "profondita": "10 km",
+    "data": 1786958165268,
+    "fonte": "USGS",
+    "lat": -8.3911,
+    "lon": 121.5192
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "82 km ENE of Ruteng, Indonesia",
+    "profondita": "23.728 km",
+    "data": 1786956720116,
+    "fonte": "USGS",
+    "lat": -8.3011,
+    "lon": 121.1463
+  },
+  {
+    "magnitudo": 4.4,
+    "luogo": "south of the Fiji Islands",
+    "profondita": "516.333 km",
+    "data": 1786955938769,
+    "fonte": "USGS",
+    "lat": -23.9232,
+    "lon": -179.6951
+  },
+  {
+    "magnitudo": 4.3,
+    "luogo": "105 km SW of Atocha, Bolivia",
+    "profondita": "239.64 km",
+    "data": 1786953551959,
+    "fonte": "USGS",
+    "lat": -21.4941,
+    "lon": -67.05
+  },
+  {
+    "magnitudo": 4.6,
+    "luogo": "3 km NNE of Takatsuki, Japan",
+    "profondita": "370.457 km",
+    "data": 1786952179104,
+    "fonte": "USGS",
+    "lat": 34.8761,
+    "lon": 135.6311
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "61 km NW of Ende, Indonesia",
+    "profondita": "28.252 km",
+    "data": 1786951232272,
+    "fonte": "USGS",
+    "lat": -8.5254,
+    "lon": 121.2007
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "159 km ESE of Saipan, Northern Mariana Islands",
+    "profondita": "10 km",
+    "data": 1786949711062,
+    "fonte": "USGS",
+    "lat": 14.5955,
+    "lon": 147.0932
+  },
+  {
+    "magnitudo": 4.6,
+    "luogo": "43 km WNW of Turangi, New Zealand",
+    "profondita": "177.408 km",
+    "data": 1786943921824,
+    "fonte": "USGS",
+    "lat": -38.907,
+    "lon": 175.3138
+  },
+  {
+    "magnitudo": 4.4,
+    "luogo": "95 km S of Ende, Indonesia",
+    "profondita": "35 km",
+    "data": 1786943368329,
+    "fonte": "USGS",
+    "lat": -9.7042,
+    "lon": 121.7425
+  },
+  {
+    "magnitudo": 5.2,
+    "luogo": "70 km NNW of Ende, Indonesia",
+    "profondita": "16.335 km",
+    "data": 1786938484873,
+    "fonte": "USGS",
+    "lat": -8.2999,
+    "lon": 121.327
+  },
+  {
+    "magnitudo": 5.3,
+    "luogo": "68 km NNW of Ende, Indonesia",
+    "profondita": "10 km",
+    "data": 1786937799370,
+    "fonte": "USGS",
+    "lat": -8.278,
+    "lon": 121.407
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "90 km NE of Ruteng, Indonesia",
+    "profondita": "10 km",
+    "data": 1786937633507,
+    "fonte": "USGS",
+    "lat": -8.0913,
+    "lon": 121.0947
+  },
+  {
+    "magnitudo": 4.2,
+    "luogo": "43 km NNW of Ende, Indonesia",
+    "profondita": "10 km",
+    "data": 1786935508488,
+    "fonte": "USGS",
+    "lat": -8.4617,
+    "lon": 121.5676
+  },
+  {
+    "magnitudo": 4.8,
+    "luogo": "84 km NNE of Labuan Bajo, Indonesia",
+    "profondita": "29.528 km",
+    "data": 1786934360044,
+    "fonte": "USGS",
+    "lat": -7.8295,
+    "lon": 120.2556
+  },
+  {
+    "magnitudo": 4.2,
+    "luogo": "24 km ESE of Norak, Tajikistan",
+    "profondita": "10 km",
+    "data": 1786928491312,
+    "fonte": "USGS",
+    "lat": 38.3307,
+    "lon": 69.5974
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "35 km E of Poso, Indonesia",
+    "profondita": "10 km",
+    "data": 1786928489183,
+    "fonte": "USGS",
+    "lat": -1.3664,
+    "lon": 121.0709
+  },
+  {
+    "magnitudo": 5.5,
+    "luogo": "62 km NNW of Ende, Indonesia",
+    "profondita": "15.522 km",
+    "data": 1786927601245,
+    "fonte": "USGS",
+    "lat": -8.3149,
+    "lon": 121.4724
+  },
+  {
+    "magnitudo": 4.6,
+    "luogo": "70 km NNE of Labuan Bajo, Indonesia",
+    "profondita": "35 km",
+    "data": 1786926456214,
+    "fonte": "USGS",
+    "lat": -7.9578,
+    "lon": 120.2244
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "213 km E of Levuka, Fiji",
+    "profondita": "562.262 km",
+    "data": 1786925287246,
+    "fonte": "USGS",
+    "lat": -17.7068,
+    "lon": -178.7056
+  },
+  {
+    "magnitudo": 4.3,
+    "luogo": "185 km W of Abepura, Indonesia",
+    "profondita": "35.288 km",
+    "data": 1786917748262,
+    "fonte": "USGS",
+    "lat": -2.6383,
+    "lon": 138.9688
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "60 km NNE of Ruteng, Indonesia",
+    "profondita": "10 km",
+    "data": 1786916923015,
+    "fonte": "USGS",
+    "lat": -8.1055,
+    "lon": 120.6825
+  },
+  {
+    "magnitudo": 4.4,
+    "luogo": "14 km S of Maebaru-chūō, Japan",
+    "profondita": "10 km",
+    "data": 1786916236420,
+    "fonte": "USGS",
+    "lat": 33.4318,
+    "lon": 130.1863
+  },
+  {
+    "magnitudo": 4.5,
+    "luogo": "Kepulauan Babar, Indonesia",
+    "profondita": "163.466 km",
+    "data": 1786915699024,
+    "fonte": "USGS",
+    "lat": -7.1018,
+    "lon": 129.5786
+  },
+  {
+    "magnitudo": 4.4,
+    "luogo": "99 km W of San Antonio de los Cobres, Argentina",
+    "profondita": "173.246 km",
+    "data": 1786914367316,
+    "fonte": "USGS",
+    "lat": -24.3187,
+    "lon": -67.2962
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "77 km N of Ruteng, Indonesia",
+    "profondita": "9.309 km",
+    "data": 1786901175105,
+    "fonte": "USGS",
+    "lat": -7.9109,
+    "lon": 120.4602
+  },
+  {
+    "magnitudo": 4.9,
+    "luogo": "South Atlantic Ocean",
+    "profondita": "10 km",
+    "data": 1786900267915,
+    "fonte": "USGS",
+    "lat": -22.5775,
+    "lon": -20.3712
+  }
+]
