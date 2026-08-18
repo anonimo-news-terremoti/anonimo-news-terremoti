@@ -1,5 +1,23 @@
 [
   {
+    "magnitudo": 4.7,
+    "luogo": "80 km N of Ruteng, Indonesia",
+    "profondita": "10.259 km",
+    "data": 1787051210913,
+    "fonte": "USGS",
+    "lat": -7.8898,
+    "lon": 120.3661
+  },
+  {
+    "magnitudo": 4.7,
+    "luogo": "1 km WSW of Alhendín, Spain",
+    "profondita": "10 km",
+    "data": 1787049583915,
+    "fonte": "USGS",
+    "lat": 37.1061,
+    "lon": -3.6598
+  },
+  {
     "magnitudo": 4.6,
     "luogo": "5 km ENE of Escúzar, Spain",
     "profondita": "10 km",
@@ -430,23 +448,5 @@
     "fonte": "USGS",
     "lat": -24.3187,
     "lon": -67.2962
-  },
-  {
-    "magnitudo": 4.9,
-    "luogo": "77 km N of Ruteng, Indonesia",
-    "profondita": "9.309 km",
-    "data": 1786901175105,
-    "fonte": "USGS",
-    "lat": -7.9109,
-    "lon": 120.4602
-  },
-  {
-    "magnitudo": 4.9,
-    "luogo": "South Atlantic Ocean",
-    "profondita": "10 km",
-    "data": 1786900267915,
-    "fonte": "USGS",
-    "lat": -22.5775,
-    "lon": -20.3712
   }
 ]
